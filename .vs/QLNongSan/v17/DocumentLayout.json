@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Visual Studio Project\\QLNongSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|t:\\visual studio project\\qlnongsan\\presentationlayer\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|t:\\visual studio project\\qlnongsan\\presentationlayer\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|t:\\visual studio project\\qlnongsan\\presentationlayer\\nhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\nhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|t:\\visual studio project\\qlnongsan\\presentationlayer\\nhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\nhanviencontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|t:\\visual studio project\\qlnongsan\\presentationlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|T:\\Visual Studio Project\\QLNongSan\\presentationlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC0D9-B8C8-46A9-9E0E-35648E129888}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE21214A-DD97-4A3B-B627-C4E7B15C83DF}|DataLayer\\DataLayer.csproj|T:\\Visual Studio Project\\QLNongSan\\datalayer\\categorydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE21214A-DD97-4A3B-B627-C4E7B15C83DF}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\categorydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D41226-1720-4065-A7CE-FD478FF55F7D}|BussinessLayer\\BussinessLayer.csproj|T:\\Visual Studio Project\\QLNongSan\\bussinesslayer\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D41226-1720-4065-A7CE-FD478FF55F7D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStaff.cs",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\AddStaff.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\AddStaff.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\AddStaff.cs",
+              "RelativeToolTip": "PresentationLayer\\AddStaff.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStaff.cs [Design]",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\AddStaff.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\AddStaff.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\AddStaff.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\AddStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:39.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienControl.cs",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\NhanVienControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\NhanVienControl.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\NhanVienControl.cs",
+              "RelativeToolTip": "PresentationLayer\\NhanVienControl.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienControl.cs [Design]",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\NhanVienControl.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\NhanVienControl.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\NhanVienControl.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\NhanVienControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:13.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDL.cs",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\DataLayer\\CategoryDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\CategoryDL.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\DataLayer\\CategoryDL.cs",
+              "RelativeToolTip": "DataLayer\\CategoryDL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:07:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryBL.cs",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\BussinessLayer\\CategoryBL.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\CategoryBL.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\BussinessLayer\\CategoryBL.cs",
+              "RelativeToolTip": "BussinessLayer\\CategoryBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:07:35.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\Category.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Category.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\Category.cs",
+              "RelativeToolTip": "PresentationLayer\\Category.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:06:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs [Design]",
+              "DocumentMoniker": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\Category.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Category.cs",
+              "ToolTip": "T:\\Visual Studio Project\\QLNongSan\\PresentationLayer\\Category.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:04:13.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

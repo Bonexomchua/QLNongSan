@@ -1,0 +1,7 @@
+T:\Visual Studio Project\QLNongSan\bin\Debug\BussinessLayer.dll
+T:\Visual Studio Project\QLNongSan\bin\Debug\BussinessLayer.pdb
+T:\Visual Studio Project\QLNongSan\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+T:\Visual Studio Project\QLNongSan\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+T:\Visual Studio Project\QLNongSan\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+T:\Visual Studio Project\QLNongSan\BussinessLayer\obj\Debug\BussinessLayer.dll
+T:\Visual Studio Project\QLNongSan\BussinessLayer\obj\Debug\BussinessLayer.pdb

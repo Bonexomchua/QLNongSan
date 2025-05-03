@@ -1,0 +1,7 @@
+T:\Visual Studio Project\QLNongSan\bin\Debug\DataLayer.dll
+T:\Visual Studio Project\QLNongSan\bin\Debug\DataLayer.pdb
+T:\Visual Studio Project\QLNongSan\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+T:\Visual Studio Project\QLNongSan\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+T:\Visual Studio Project\QLNongSan\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+T:\Visual Studio Project\QLNongSan\DataLayer\obj\Debug\DataLayer.dll
+T:\Visual Studio Project\QLNongSan\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,6 @@
+T:\Visual Studio Project\QLNongSan\bin\Debug\DataTransferObject.dll
+T:\Visual Studio Project\QLNongSan\bin\Debug\DataTransferObject.pdb
+T:\Visual Studio Project\QLNongSan\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+T:\Visual Studio Project\QLNongSan\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+T:\Visual Studio Project\QLNongSan\DataTransferObject\obj\Debug\DataTransferObject.dll
+T:\Visual Studio Project\QLNongSan\DataTransferObject\obj\Debug\DataTransferObject.pdb
